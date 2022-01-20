@@ -1,0 +1,145 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Roboto:wght@100&display=swap');
+.Baker-Top
+{
+    background-image: url(/css/Baker/Baker-Top-BackgroundImage.jpg);
+    height: 500px;
+    background-size: cover;
+    padding: 0px;
+    margin: 0px;
+}
+.Baker-Top-NavBar-aLinks
+{
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+}
+.Baker-Top-NavBar-Links
+{
+
+    width: fit-content;
+    position: absolute;
+    right: 25px;
+    top: 15px;
+}
+.Baker-Top-NavBar-BAKER
+{
+    width: fit-content;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-left: 15px;
+
+}
+.Baker-Top-NavBar-BAKER-White
+{
+    color: white
+}
+.Baker-Top-NavBar-BAKER-Yellow
+{
+    color: rgb(185, 185, 27);
+}
+.Baker-Top-Text
+{
+    text-align: center;
+    color: white;
+}
+.Baker-Top-Text-H3
+{
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+.Baker-Top-Text-H1
+{
+    margin-bottom: 30px;
+}
+.Baker-Top-Button-S
+{
+    background-color: transparent;
+    cursor: pointer;
+    border-radius: 50px;
+    margin-left: 50px;
+    height: 35px;
+    font-size: 17px;
+}
+.Baker-Top-Button
+{
+    text-align: center;
+}
+.Baker-Top-Button-Left
+{
+    background-color: rgb(185, 185, 27);
+}
+.Baker-Top-Button-Right
+{
+    border-color: rgb(185, 185, 27);
+}
+.Baker-Middle-Images
+{
+    height: 100px;
+}
+.Baker-Middle-Table
+{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 55px;
+}
+.Baker-Middle-H2
+{
+    padding-left: 45px;
+}
+.Baker-Middle-Text
+{
+    padding-left: 45px;
+}
+.Baker-Middle-Images
+{
+    padding-left: 45px;
+}
+.Baker-Bottom
+{
+    text-align: center;
+    background-color: rgb(236, 236, 236);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.Baker-Bottom-Hr
+{
+    width: 55px;
+    height: 3px;
+    border: none;
+    Background-color: rgb(185, 185, 27);
+}
+.Baker-Bottom-Table-H2
+{
+    padding-left: 45px;
+    font-size: 25px;
+    text-decoration: none;
+}
+.Bold
+{
+    font-size: 50px;
+}
+.Baker-Bottom-H2
+{
+    font-size: 25px;
+    font-weight: 800;
+}
+body
+{
+    font-family: 'Roboto', sans-serif;
+}
+h2
+{
+    font-weight: 100;
+}
+.Baker-Bottom-P
+{
+    font-weight:600;
+}
+.Gmail
+{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    font-size: 50px;
+}
